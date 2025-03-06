@@ -1,0 +1,41 @@
+{
+    "name": "matbrgz/digitalkingstheme",
+    "description": "Digital Kings Theme For Flarum",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+	"homepage": "https://forum.digitalkings.tech",
+	"support": {
+		"issues": "https://github.com/digital-kings/flarum-theme-digitalkings/issues",
+		"source": "https://github.com/digital-kings/flarum-theme-digitalkings",
+		"forum": "https://forum.digitalkings.tech"
+	},
+    "require": {
+        "flarum/core": "*"
+    },
+    "authors": [
+        {
+            "name": "matbrgz",
+            "email": "matbrgz@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "matbrgz\\digitalkingstheme\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Digital Kings",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-chess-king",
+                "backgroundColor": "#2f6cca",
+                "color": "#FFF"
+            }
+        }
+    }
+}
