@@ -1,6 +1,6 @@
 <?php
 
-namespace matbrgz\digitalkingstheme;
+namespace digitalkings\digitalkingstheme;
 
 use Flarum\Extend;
 
