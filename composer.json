@@ -24,7 +24,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "matbrgz\\digitalkingstheme\\": "src/"
+            "digitalkings\\digitalkingstheme\\": ""
         }
     },
     "extra": {

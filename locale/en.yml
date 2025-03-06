@@ -1,0 +1,8 @@
+digitalkings:
+  admin:
+    settings:
+      title: Digital Kings Theme Settings
+  forum:
+    header:
+      title: Digital Kings
+      subtitle: A modern theme for your Flarum forum 
